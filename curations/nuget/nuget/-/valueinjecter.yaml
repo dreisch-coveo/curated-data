@@ -1,21 +1,19 @@
 coordinates:
-  name: valueinjecter
+  name: ValueInjecter
   provider: nuget
   type: nuget
 revisions:
-  3.1.1:
-    files:
-      - attributions:
-          - Copyright (c) 2015 Valentin Plamadeala
-        license: MIT
-        path: valueinjecter.nuspec
+  3.1.1.5:
     licensed:
       declared: MIT
-  3.1.1.2:
-    files:
-      - attributions:
-          - Copyright (c) 2015 Valentin Plamadeala
-        license: MIT
-        path: valueinjecter.nuspec
+  3.2.0:
+    described:
+      sourceLocation:
+        name: valueinjecter
+        namespace: omuleanu
+        provider: github
+        revision: 694300c085bf0eeb1a12b15a2744e41cf72b4029
+        type: git
+        url: 'https://github.com/omuleanu/valueinjecter/commit/694300c085bf0eeb1a12b15a2744e41cf72b4029'
     licensed:
       declared: MIT

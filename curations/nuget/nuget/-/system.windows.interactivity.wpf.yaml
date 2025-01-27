@@ -1,5 +1,5 @@
 coordinates:
-  name: system.windows.interactivity.wpf
+  name: System.Windows.Interactivity.WPF
   provider: nuget
   type: nuget
 revisions:

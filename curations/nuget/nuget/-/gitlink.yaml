@@ -1,11 +1,14 @@
 coordinates:
-  name: gitlink
+  name: GitLink
   provider: nuget
   type: nuget
 revisions:
-  2.2.0:
+  3.1.0:
     licensed:
       declared: MIT
-  2.4.0:
+  3.2.0-unstable0014:
+    licensed:
+      declared: MIT
+  3.2.0-unstable0018:
     licensed:
       declared: MIT

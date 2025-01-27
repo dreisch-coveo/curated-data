@@ -1,32 +1,8 @@
 coordinates:
-  name: pygithub
+  name: PyGithub
   provider: pypi
   type: pypi
 revisions:
-  '1.1':
-    licensed:
-      declared: LGPL-3.0-or-later
-  1.43.7:
-    licensed:
-      declared: LGPL-3.0-or-later
-  1.44.1:
-    licensed:
-      declared: LGPL-3.0-or-later
-  '1.51':
-    licensed:
-      declared: LGPL-3.0-or-later
-  '1.53':
-    licensed:
-      declared: LGPL-3.0-or-later
-  '1.56':
-    licensed:
-      declared: LGPL-3.0-or-later
-  1.58.2:
-    licensed:
-      declared: LGPL-3.0-or-later
-  1.59.0:
-    licensed:
-      declared: LGPL-3.0-or-later
-  1.59.1:
+  '1.55':
     licensed:
       declared: LGPL-3.0-or-later

@@ -1,5 +1,5 @@
 coordinates:
-  name: markdowndeep.full
+  name: MarkdownDeep.Full
   provider: nuget
   type: nuget
 revisions:

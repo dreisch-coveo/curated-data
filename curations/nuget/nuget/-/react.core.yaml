@@ -1,8 +1,26 @@
 coordinates:
-  name: react.core
+  name: React.Core
   provider: nuget
   type: nuget
 revisions:
+  3.2.0:
+    licensed:
+      declared: BSD-3-Clause AND OTHER
+  3.3.0:
+    licensed:
+      declared: BSD-3-Clause AND OTHER
   3.4.1:
     licensed:
       declared: BSD-3-Clause AND OTHER
+  4.1.1:
+    licensed:
+      declared: MIT
+  5.1.2:
+    licensed:
+      declared: MIT
+  5.2.12:
+    licensed:
+      declared: MIT
+  5.2.5:
+    licensed:
+      declared: MIT

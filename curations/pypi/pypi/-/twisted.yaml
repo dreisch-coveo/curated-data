@@ -1,17 +1,8 @@
 coordinates:
-  name: twisted
+  name: Twisted
   provider: pypi
   type: pypi
 revisions:
-  21.7.0:
-    licensed:
-      declared: MIT
-  22.2.0:
-    licensed:
-      declared: MIT
-  22.4.0:
-    licensed:
-      declared: MIT
-  22.8.0:
+  20.3.0:
     licensed:
       declared: MIT

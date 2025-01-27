@@ -1,8 +1,20 @@
 coordinates:
-  name: jint
+  name: Jint
   provider: nuget
   type: nuget
 revisions:
-  2.10.4:
+  2.11.58:
+    licensed:
+      declared: BSD-2-Clause
+  2.2.0:
+    licensed:
+      declared: BSD-2-Clause
+  2.5.0:
+    licensed:
+      declared: BSD-2-Clause
+  3.0.0-beta-1629:
+    licensed:
+      declared: BSD-2-Clause
+  3.0.0-beta-1828:
     licensed:
       declared: BSD-2-Clause

@@ -1,12 +1,9 @@
 coordinates:
-  name: azure-sdk-for-go
-  namespace: azure
-  provider: github
   type: git
+  name: azure-sdk-for-go
+  namespace: Azure
+  provider: github
 revisions:
-  87de771fcdf5ec4341f3842f74b5bb98652b10f7:
+  4f14e3d53fba12172734d383af647730d06412d2:
     licensed:
       declared: Apache-2.0
-  e1d15b65278a1c714f2dd1349fa4098d72d0fe7b:
-    licensed:
-      declared: MIT

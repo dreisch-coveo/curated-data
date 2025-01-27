@@ -1,8 +1,11 @@
 coordinates:
-  name: pysocks
+  name: PySocks
   provider: pypi
   type: pypi
 revisions:
-  1.6.8:
+  1.7.0:
+    licensed:
+      declared: BSD-3-Clause
+  1.7.1:
     licensed:
       declared: BSD-3-Clause

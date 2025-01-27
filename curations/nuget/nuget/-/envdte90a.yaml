@@ -1,47 +1,11 @@
 coordinates:
-  name: envdte90a
+  name: EnvDTE90a
   provider: nuget
   type: nuget
 revisions:
-  17.0.0-previews-1-31325-273:
+  16.10.31320.204:
     licensed:
       declared: OTHER
-  17.0.0-previews-1-31410-258:
-    licensed:
-      declared: OTHER
-  17.0.0-previews-3-31605-261:
-    licensed:
-      declared: OTHER
-  17.0.0-previews-4-31709-430:
-    licensed:
-      declared: OTHER
-  17.0.31902.203:
-    licensed:
-      declared: OTHER
-  17.0.32112.339:
-    licensed:
-      declared: OTHER
-  17.1.32210.191:
-    licensed:
-      declared: OTHER
-  17.10.40170:
-    licensed:
-      declared: OTHER
-  17.11.40262:
-    licensed:
-      declared: OTHER
-  17.2.32505.113:
-    licensed:
-      declared: OTHER
-  17.3.32804.24:
-    licensed:
-      declared: OTHER
-  17.4.33103.184:
-    licensed:
-      declared: OTHER
-  17.5.33428.366:
-    licensed:
-      declared: OTHER
-  17.6.36389:
+  16.9.31023.347:
     licensed:
       declared: OTHER

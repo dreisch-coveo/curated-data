@@ -1,26 +1,11 @@
 coordinates:
-  name: Emgu.CV
+  name: EMGU.CV
   provider: nuget
   type: nuget
 revisions:
-  3.2.0.2721:
+  3.4.1.2976:
     licensed:
-      declared: GPL-3.0-only
-  4.4.0.4061:
+      declared: GPL-3.0
+  3.4.3.3016:
     licensed:
-      declared: GPL-3.0-only OR OTHER
-  4.4.0.4099:
-    licensed:
-      declared: GPL-3.0-only OR OTHER
-  4.5.1.4349:
-    licensed:
-      declared: GPL-3.0-only OR OTHER
-  4.5.2.4673:
-    licensed:
-      declared: GPL-3.0-only OR OTHER
-  4.5.5.4823:
-    licensed:
-      declared: GPL-3.0-only OR OTHER
-  4.6.0.5131:
-    licensed:
-      declared: GPL-3.0-only OR OTHER
+      declared: GPL-3.0
